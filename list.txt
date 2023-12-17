@@ -1,0 +1,5 @@
+"http://Target.com" language:yml 
+"Target. com" language:yml "_key"
+"Target. com" language:yml "admin"
+"Target. com" language:yml "root"
+"Target. com" language:yml "host"
